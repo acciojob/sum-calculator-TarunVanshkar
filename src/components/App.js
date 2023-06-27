@@ -10,7 +10,7 @@ const App = () => {
         {/* Do not remove the main div */}
         <h1>Sum Calculator</h1>
         <input type="number" onChange={(event) => {setSum(sum+ parseInt(event.target.value))}}></input>
-        <p>Sum : {sum}</p>
+        <p>Sum: {sum}</p>
     </div>
   )
 }
