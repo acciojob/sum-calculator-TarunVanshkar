@@ -1,1 +1,8 @@
-
+#calculator-container{
+    /* border: 2px solid red; */
+    width: 30vw;
+    margin: 20vh auto;
+    padding: 1rem;
+    border-bottom: 2px solid black;
+    padding-left: 100px;
+}
